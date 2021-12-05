@@ -8,8 +8,8 @@ javafx {
     modules = ['javafx.controls', 'javafx.graphics']
 }
 
-group 'org.example'
-version '1.0-SNAPSHOT'
+group 'net.strukteon'
+version '1.0'
 
 repositories {
     mavenCentral()
